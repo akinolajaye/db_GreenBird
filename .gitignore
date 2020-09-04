@@ -1,0 +1,9 @@
+GreenBirdProject/dist/
+GreenBirdProject/build/
+GreenBirdProject/__pycache__/
+.vs/
+*.sln
+*.pyproj
+*.user
+*.spec
+NEA jaye greenbird.docx
